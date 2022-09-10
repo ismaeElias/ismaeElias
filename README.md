@@ -9,6 +9,24 @@ I am working with full stack development and attending graduate school on cloud 
 ----------
 
 
+## About me
+
+<img align="right" width="300" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/importa.gif" />
+
+```java
+class Me{
+
+    public static void main(String[] args) {
+        System.out.println("I try to solve problems that I created myself");
+    }
+    
+}
+```
+
+----------
+
+
+
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/OIsmaelElias) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ismael-eliass/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ismael.eliass/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/ismael.elias.904)
 
 ----------
