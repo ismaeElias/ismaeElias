@@ -8,11 +8,6 @@ I am working with full stack development and attending graduate school on cloud 
 
 ----------
 
-
-## About me
-
-<img align="right" width="300" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/importa.gif" />
-
 ```java
 class Me{
 
