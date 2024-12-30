@@ -2,8 +2,8 @@
 
 I am working with full stack development and attending graduate school on cloud development
 
-- 🔭 I'm currently working on cloud projects in company using Java, AWS and AngularJS
-- 🌱 I'm currently learning more about Java and Flutter
+- 🔭 I'm currently working on cloud projects in company using Java, AWS and Angular
+- 🌱 I'm currently learning more about Java and AWS
 - 🤝 I’m looking to collaborate on projects open sources and ONG's
 
 ----------
